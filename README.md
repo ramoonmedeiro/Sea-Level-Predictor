@@ -1,7 +1,7 @@
 # Sea-Level-Predictor
 
 The idea of this project is to estimate the sea level in the year 2050 with data (epa-sea-level.csv) from 1880 to 2013 using linear regression with scipy.
-The full project can see here (https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor).
+The full project can be seen here (https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor).
 
 For the first case, data from the years between 1880 and 2013 were used to perform the linear regression. The line that represents the first regression expanding the values up to 2050 can be seen in the image below, in blue color.
 
