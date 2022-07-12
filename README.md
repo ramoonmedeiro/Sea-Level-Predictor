@@ -6,8 +6,9 @@ For the first case, data from the years between 1880 and 2013 were used to perfo
 
 The second regression was performed using only values between 2000 and 2013, expanding to 2050. A straight line was obtained again, which can also be seen in the image below, it is the orange colored line.
 
+The two lines have different slopes because from 2000 onwards sea level values have increased more compared to previous years.
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102380417/178575283-0e2641ca-f0db-4ccf-b2cd-e2c219a01510.png" width="800px" />
 </div>
 
-The two lines have different slopes because from 2000 onwards sea level values have increased more compared to previous years.
